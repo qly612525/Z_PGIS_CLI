@@ -1,0 +1,12 @@
+{
+  "name": "Z_PGIS_CLI",
+  "version": "0.1.0",
+  "description": "该项目为ZX的PGIS前端项目的构建、配置以及DEBUG等开发工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["shell", "PGIS"],
+  "author": "Qian LeYi",
+  "license": "ISC"
+}
